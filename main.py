@@ -1,7 +1,7 @@
 ####################################################################
 #																																	 #
 #      Created by Steeve Johan Otoka Eyota and Davy Okemba				 #
-#    Copyright © 2021 Steeve Johan Otoka Eyota and Davy Okemba	   #
+#    Copyright © 2021 Steeve Johan Otoka Eyota and Davy Okemba		 #
 #																																	 #
 #												Weather Egg																 #
 ####################################################################
