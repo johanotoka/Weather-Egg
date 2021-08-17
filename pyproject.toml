@@ -7,6 +7,8 @@ authors = ["Steeve Johan Otoka Eyota and Davy Okemba"]
 [tool.poetry.dependencies]
 python = "^3.8"
 discord = "^1.7.3"
+discord-py-slash-command = "^3.0.1"
+textblob = "^0.15.3"
 
 [tool.poetry.dev-dependencies]
 
